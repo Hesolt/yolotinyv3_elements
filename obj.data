@@ -1,4 +1,4 @@
-classes = 7
+classes = 15
 train  = /content/yolotinyv3_elements/train.txt
 valid  = /content/yolotinyv3_elements/valid.txt
 names = /content/yolotinyv3_elements/obj.names
